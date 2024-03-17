@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boglewasup.github.io/sitemap.xml
